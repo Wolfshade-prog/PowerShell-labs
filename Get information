@@ -1,0 +1,4 @@
+Write-Host "Get all command test"
+Get-Command Get-Date
+Get-Date
+Get-History
